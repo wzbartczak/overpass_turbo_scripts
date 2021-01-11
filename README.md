@@ -1,11 +1,8 @@
 # Overpass-turbo skrypty
 Skrypty  przydatne  w walidacji danych.
 
-Skrypt:
-```
-/*
 Skrypt wyszukuje drogi oznakowane jako "track" które mają nadaną nazwę i powinny mieć zmienioną kategorię
-*/
+```
 [out:json][timeout:250];
 // zamień “Łódzkie” na nazwę województwa w którym chcesz szukać dróg
 {{geocodeArea:łódzkie}}->.searchArea;
