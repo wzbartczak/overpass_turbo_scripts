@@ -7,3 +7,4 @@ Skrypty  przydatne  w walidacji danych.
 | wyszukuje przestarzałe linie interpolacji adresów - tylko way | https://overpass-turbo.eu/s/12eS |
 | wyszukuje klucz "fixme" na way oraz node | https://overpass-turbo.eu/s/12eY |
 | Wyszukuje adresy "fixme" | https://overpass-turbo.eu/s/12f2 |
+| szuka way i node z skrótem "ks." | https://overpass-turbo.eu/s/12fI |
