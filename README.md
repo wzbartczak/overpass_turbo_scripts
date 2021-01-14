@@ -9,3 +9,4 @@ Skrypty  przydatne  w walidacji danych.
 | Wyszukuje adresy "fixme" | https://overpass-turbo.eu/s/12f2 |
 | szuka way i node z skrótem "ks." | https://overpass-turbo.eu/s/12fI |
 | Szuka mostów i przepustów bez warstwy| https://overpass-turbo.eu/s/12or |
+| Wyszukiwanie przestarzałych tagów is_in | https://overpass-turbo.eu/s/12p0 |
