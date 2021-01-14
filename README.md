@@ -8,3 +8,4 @@ Skrypty  przydatne  w walidacji danych.
 | wyszukuje klucz "fixme" na way oraz node | https://overpass-turbo.eu/s/12eY |
 | Wyszukuje adresy "fixme" | https://overpass-turbo.eu/s/12f2 |
 | szuka way i node z skrótem "ks." | https://overpass-turbo.eu/s/12fI |
+| Szuka mostów i przepustów bez warstwy| https://overpass-turbo.eu/s/12or |
