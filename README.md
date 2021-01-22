@@ -11,3 +11,4 @@ Skrypty  przydatne  w walidacji danych.
 | Szuka mostów i przepustów bez warstwy| https://overpass-turbo.eu/s/12or |
 | Wyszukiwanie przestarzałych tagów is_in | https://overpass-turbo.eu/s/12p0 |  
 | Wyszukiwanie adresów oznaczonych zarówno "place" jak i "city"| https://overpass-turbo.eu/s/12wi |
+| Layer=0 tagg który jest przestarzały i do usunięcia, wyszukiwanie na way |https://overpass-turbo.eu/s/12Fl|
